@@ -2,7 +2,12 @@ i have ability to change the status
 i hava been changing 
 do hard work then it is good..
 i wont dont have    ..
+<<<<<<< HEAD
 may i know 
 
 oas
 May i know ur name pleases
+=======
+i can do by my self 
+yes
+>>>>>>> 40814f6e049f2b7ff977104d78418882ae0290c2
